@@ -1,0 +1,240 @@
+<mxfile host="app.diagrams.net" modified="2021-11-24T20:42:03.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kjRA37xVdvqNcAp9JzY7" version="15.8.3" type="github">
+  <diagram id="fVR30EfrVtzObSgMhBJJ" name="Page-1">
+    <mxGraphModel dx="946" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-1" value="Quantum spin ice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-2" value="Optical lattices&lt;br&gt;(2D)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-3" value="Cold atoms&lt;br&gt;(Rydberg states)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-440" width="30" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-8" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Gauge theories&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-9" target="jbYFzFaD3eBk07O8ZAmZ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-9" value="Ice models" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-10" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-12" target="jbYFzFaD3eBk07O8ZAmZ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-12" value="&lt;span&gt;Quantum ice models&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-14" target="jbYFzFaD3eBk07O8ZAmZ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-14" value="Work of this paper" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-16" value="&lt;span&gt;physically&amp;nbsp;&lt;/span&gt;&lt;span&gt;realizing models of quantum spin ice and quantum dimer&amp;nbsp;&lt;/span&gt;&lt;span&gt;models in two spatial dimensions with ultra-cold atoms in optical lattices.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=20;position=0.5;position2=0.5;" parent="1" vertex="1">
+          <mxGeometry x="490" y="-20" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-19" target="jbYFzFaD3eBk07O8ZAmZ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-19" value="What makes 2D different from 3D case" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-21" target="jbYFzFaD3eBk07O8ZAmZ-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-21" value="Alkali atoms in Rydberg state" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="700" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-25" target="jbYFzFaD3eBk07O8ZAmZ-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-25" value="&amp;nbsp;Numerically analyze the Hamiltonian" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-27" target="jbYFzFaD3eBk07O8ZAmZ-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-27" value="Finite temperature is classical" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="330" y="60" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-32" value="&lt;span&gt;I. INTRODUCTION&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-33" value="Background" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-34" value="Basement" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-36" target="jbYFzFaD3eBk07O8ZAmZ-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-36" value="The latter phase" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-42" target="jbYFzFaD3eBk07O8ZAmZ-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-42" value="2 strategies implement constrained dynamics" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="860" y="250" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-52" value="Innovation and Discovery" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="810" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-61" value="Paper construction" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="-45" width="163" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-62" value="statistical mechanics&amp;nbsp;on quantum ice models" style="whiteSpace=wrap;html=1;rounded=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" vertex="1">
+          <mxGeometry x="20" y="40" width="123.36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-63" value="family of model Hamiltonians" style="whiteSpace=wrap;html=1;rounded=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" vertex="1">
+          <mxGeometry x="31.680000000000007" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-64" value="" style="html=1;curved=1;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" source="jbYFzFaD3eBk07O8ZAmZ-62" target="jbYFzFaD3eBk07O8ZAmZ-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="81.68" y="92" />
+              <mxPoint x="81.68" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-70" value="" style="html=1;curved=1;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" source="jbYFzFaD3eBk07O8ZAmZ-63" target="jbYFzFaD3eBk07O8ZAmZ-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1351.6800000000003" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81.68" y="182" />
+              <mxPoint x="81.68" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-71" value="phase diagram&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" vertex="1">
+          <mxGeometry x="31.680000000000007" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-72" value="" style="html=1;curved=1;rounded=0;noEdgeStyle=1;orthogonal=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" source="jbYFzFaD3eBk07O8ZAmZ-71" target="jbYFzFaD3eBk07O8ZAmZ-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1331.6800000000003" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81.68" y="272" />
+              <mxPoint x="81.68" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-73" value="2nd&amp;nbsp; strategy" style="whiteSpace=wrap;html=1;rounded=1;" parent="jbYFzFaD3eBk07O8ZAmZ-61" vertex="1">
+          <mxGeometry x="31.680000000000007" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-80" value="&lt;font color=&quot;#000000&quot;&gt;A. The configuration space: ice rules and emergent gauge fields&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-81" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-95" target="jbYFzFaD3eBk07O8ZAmZ-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-95" value="‘Fluxes’ layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-96" target="jbYFzFaD3eBk07O8ZAmZ-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-96" value="&lt;span&gt;‘Fluxes’ configurations&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-102" target="jbYFzFaD3eBk07O8ZAmZ-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-102" value="Theory: emergent gauge field &amp;amp; flux field (x2)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-106" target="jbYFzFaD3eBk07O8ZAmZ-136" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-106" value="2D example of the theory" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="690" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-108" value="B. Realization, and fine-tuning in d = 2" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-109" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="160" y="640" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-110" value="$$H_{\mathrm{ice}}=V \sum_{i, j \in+} S_{i}^{z} S_{j}^{z}$$" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;position2=0.46;base=25;size=10;position=0.65;" parent="1" vertex="1">
+          <mxGeometry x="185" y="590" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-136" value="Conclusion" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="830" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-138" target="jbYFzFaD3eBk07O8ZAmZ-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-138" value="Spin Hamiltonian" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-139" target="jbYFzFaD3eBk07O8ZAmZ-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=20;entryPerimeter=0;fontSize=12;fontColor=#000000;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-139" target="jbYFzFaD3eBk07O8ZAmZ-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-139" value="Explain \(V_{i,j}\), properties" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-141" target="jbYFzFaD3eBk07O8ZAmZ-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-141" value="&lt;meta charset=&quot;utf-8&quot;&gt;Anisotropy" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-143" target="jbYFzFaD3eBk07O8ZAmZ-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-143" value="&lt;meta charset=&quot;utf-8&quot;&gt;Step-like potentials" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="490" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-144" target="jbYFzFaD3eBk07O8ZAmZ-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-144" value="&lt;meta charset=&quot;utf-8&quot;&gt;Bipartite-lattice structure" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="490" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="jbYFzFaD3eBk07O8ZAmZ-146" target="jbYFzFaD3eBk07O8ZAmZ-139" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="800" />
+              <mxPoint x="390" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-146" value="&lt;span&gt;Conclusion&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="650" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbYFzFaD3eBk07O8ZAmZ-155" value="C. Adding quantum dynamics, and quantum order by disorder" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
