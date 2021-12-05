@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T19:10:44.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="aGSe5YJdtP6S3woJ1mft" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T23:07:38.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="pzU5oOC9md-Z_S6GyX1Q" version="15.8.8" type="github">
   <diagram id="0Z2lUEHgKhg2NHl_HAsV" name="Page-1">
     <mxGraphModel dx="946" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,57 @@
         </mxCell>
         <mxCell id="jsiZYJCFPvrsWLYcCzSQ-9" value="其他方国" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-1" value="古代文明更取决于地理条件&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-2" value="马克思对地理决定论的看法：仅否定片面理解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-3" value="马克思如何考虑自然因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-4" value="以奥地利王权为例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-5" value="两类土地富源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-6" value="自然环境孕育人类文明的四个条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-7" value="大陆民族和海洋民族" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-8" value="中国自然环境 1：&lt;br&gt;隔绝&lt;br&gt;主体内向型文化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-9" value="&lt;span&gt;中国自然环境 2：&lt;br&gt;平原辐射&lt;br&gt;天朝心态&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-10" value="齐地的自然环境具有海洋性&lt;br&gt;（东方地中海）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="650" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-11" value="齐地的先秦史简介" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-12" value="齐地的山川" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-13" value="齐地的河海" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-14" value="齐地的土质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-15" value="齐地的气候" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-16" value="齐地的资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtZ2nDCeHmUiok0aGivg-17" value="为什么齐地是主体外向型文化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1010" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
