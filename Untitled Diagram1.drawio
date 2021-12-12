@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T02:22:36.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="kFppwXrgpeiOYEe0kEmf" version="15.9.4" type="github"><diagram id="Hgg3vdhVdP1kn9C0DQp8" name="Page-1">1Vjfb9owEP5rIm0PoCRugT22tNBKQ5rGpD0iNzkSq46dOpcC/et3ThxollRtpVG6B4Lz+eyzv/tlx2PTbDs3PE8XOgbphX689diVF4bjCaOnBXY1EIzYWY0kRsQOOwBL8QQO9B1aihiKliBqLVHkbTDSSkGELYwbozdtsbWWba05T6ADLCMuu+hvEWNao5Nz/4DfgEjSRnPgu56MN8JuiiLlsd7UUCXDrj02NVpj3cq2U5CWvIaXeqLZC737hRlQ+JYB9zfpag7sfA6TB39+OV2Mk5uBm+WRy9JteJryHMEQOPbYhReOeJZ77FLdFfbvQiWl5LZ3oTNSXGZuc7hrGDO6VDFYpQEN2KQCYZnzyPZuyEcISzGTrtupB4OwfXFfwZ4tcjMgvWh2JOIGTBzhzsMG7MwBm4O9wsYq6TNbjRzGnYsk+6kPLFLDEfkOUsMOqR2SyBly24xKI3eXhkf3gK+z1ab2H3DXJW/cR16Xu5AdizzWIW88pE34S6BtcRQqoZcp7Q/MQK8HC14UdhkqpudPkCTxCJV7otDq5M7JgjcQzNhHeudZD8EWuFZgErv0a5GAqrvp5aHkNZO+sI9lnoIRlB+tFbQ2sVAcKUF/PqL9UxN93kM0ebf/CXNoh719fJ+MvdHrSfTkLAWjU7M07mFpJG0puaNGYhs2V5oqXnON1BZVuxEjrXvJOomixkrihmdColaCnz6NBmGb+WDSU6YmH0l80C3yM6k3UcoNVudMG9+Y2hRauMpVJVG93uO9lnpe1boW2le6zlhzKH2ZK319w/+yo+R3dF5/1YIiq0/JIqPiO5OCJpzxp9KAJZGKBVT+Nbu1YsPiMaEha61w6RT51rekSBS1JazxSD4RnNwnvr0YjUVuo+gZ9aOH0h78K54GG7c6Om77SpvMstkINLabVzFXleG1FXH+xO90ie14rnXVo9JdbDRZyEqi7haadzpAimjvXReWp3AWxcofCrp5rQVlAzOMrIJZzJHTn8ULuxqR5RIGUigoBmshJaWNcMYs1YG/WoAqV99FgatfsEVqKVjdImSry5IkcfWDIiexN0sKuMkwV8lxfKfvyvChrtOs5z+4M3x7nbq+C4N/NOq6d9grOqI+tjJuT76My8i6Il3UX8y13vn0C/2ykh5fP10RDI9YBOn18GWi6nv2fYdd/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-12T02:22:41.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="XIqvQazPC7FJvGcwQYF4" version="15.9.4" type="github">
+  <diagram id="Hgg3vdhVdP1kn9C0DQp8" name="Page-1">
+    <mxGraphModel dx="783" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-1" value="Chapter 7:&amp;nbsp;Angular Momentum" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-370" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-3" value="7.1 Separating Center-of-Mass and Relative Motion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-370" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-4" value="7.2 Energy Eigenvalue Equation in Spherical Coordinates" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-300" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-5" value="7.3 Angular Momentum" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-230" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-160" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-7" value="&lt;b&gt;Central potential &lt;/b&gt;and total Hamiltonian" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="180" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-12" value="Flowchart for the separation of the &lt;b&gt;Center-of-Mass&lt;/b&gt; and &lt;b&gt;relative motion&lt;/b&gt;" style="label;whiteSpace=wrap;html=1;image=img/lib/azure2/general/Image.svg;fontStyle=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-19" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Ground information about &lt;/span&gt;hydrogen atom" style="label;whiteSpace=wrap;html=1;image=https://cdn0.iconfinder.com/data/icons/simple-lines-filled/32/10_Menu_List_Text_Line_Item_Bullet_Paragraph-128.png;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="40" width="20" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kHh_Ge35Ge8q0GBCM7gH-21" value="Derivation of &lt;b&gt;reduced mass&lt;/b&gt; \(\mu\)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
