@@ -1,1 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T17:31:01.846Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7sppKf0nDnXrRLA2rdr5" version="16.0.0" type="github" pages="3"><diagram id="XS5NZsYhdVDpkxtMLIYf" name="Contents">3Vdbc6IwGP01zO4+tMNdfayg3enUbrc89PLSiZBC2oSwMSj21+8HxCLi9jZjdfZByXdycjtfcgia5bHiVKAsmfAIU83Uo0KzfM00DaPvwqNEljViDwY1EAsSKVIDBOQZK1BXaE4iPGsRJedUkqwNhjxNcShbGBKCL9q0B07bo2Yoxh0gCBHtotckkkmN9h29wX9iEierkQ1d1TC0IqsuZgmK+KKGKo410ixPcC7rEis8TEvxVrrcWThAt710xH5nfUvaZ+jSOKp7H3+kycsSBE7lp7ue/55fTvLYu56kZ8XgVCTUvFt1PUc0V3qptcrlSkAcgZ4q5EImPOYpoqMGHQqepxEuh9EhajjnnGcAGgA+YimXanOgXHKAEsmoqq3HLAfayNkbC14lhuciVE3p3YXN9POrE9uZAO0qv3l6VMLoEokYy1fUaLIKxwFzhqVYQjuBKZJk3p4cUvsyfuE12kNByf+BVDj7UB70Fcsb1b4Kbsvg2FmFfrFe6S9VdCgZs78oY69NsnV4YEI21swhPtIcD9R2PJZDWD2P6upOnpsslilZJETiIEOVPgsw5W1nZY6FxMUntO9qpXqx1WqUzQ9UuGg80zAVlqz5pavv6Dh0xQWrnc0ACuA1QXjakfEN4doq70rGTR2dfevY+98cfusqzXf6hbtPhzf/4RdgDg8ChVpvGEE1RDMSM6T1/Ab5xXBcIdDshW3UFNeuORnRnBHEZgmb+ugeyqXvwD1GMCiHrOL7a6yKCJwwgktMz1NsuDwBYVIRvPU+D9e9LPftY+d+5bGzO7ke42XKUPqttLCIoFggppkuhYkMpwJKcVn6vs4SOcWzH4cp+KbPGda+jc7tKO6PTqqDcOEfpobOOzbtriT8gwLzaXz2PMnE+XW/mA50Y7r1QrMhHGHV99a6PAryCYthVEqm8B9Skt0jIaEY4xQLcBRzHIA93xtmv4DfcZbGOzODzb3Z6wprbdHV+riuEDYfgFXd2me0NfoL</diagram><diagram id="3fMimIrCuo9KCQnrETgy" name="Center of mass model of e+e- Annihilation">7VlZc5swEP41zLQP7nAYH481JmnSZKaNp1O3LxkMMqgBRGTho7++KxBgDuew4yNTz3hs7bJaoW+/XS1Y0oxgeUmtyLslDvIlVXaWkjaUVFVReh344ZpVqmn3+6nCpdgRRoVihP8ioZSFNsYOmpUMGSE+w1FZaZMwRDYr6SxKyaJsNiV+edXIclFNMbItv679iR3mpdqeLhf6Lwi7XrayIosrgZUZCxczz3LIIlUlNpopaQYlhKWjYGkgn4OX4bL6KmOqxnfBaH5/NTHv9K5jtlLvF6+Zkm+BopBt7Rp7Y+f+8kcPf5d/6/N5j9DJjZgizy0/FngZsAaiLTJt3VqzGcchpUSCAFtlsC48zNAosmwuL4A6kjbwWOCDpMCQkjh0kCMksQiiDC0rUXlmS0qOMxAUkQAxuoJ5mZeOuP9FEVlFFTpvLaqZnSXI5OauCsBgIDB7BX5KDRjkAP2ESCjziEtCyzcL7Ro2MkiFzQ0hkQDsD2JsJXLJihkpgwuQ0dVYzE+EX1z4pGficLl+cbgSUnqv/Aa3CAJsksTURk+AoYr0tqiL2BN2enNQKfIthuflm3vziKl1xpNwhugc1iYhXCFT+LqF1UIWB5LasQLO7XAyi3IITzYPRI3uHTsttHNaFGC030NatGtpYYaIuvwGJN34kOeByxLESpJufOQpkxwX7yE9jn9s6DW0JbXNP10D0OSdx2QqdQeR1B1yFVjoho+mrOm6bsIItBHFAUoUBk22kE4sz3h4xuPD8x7NlBLoMcZzGJr3qTF3QQMY20GyxpCbAUiqnO2tyo1y8J9hyr64oakVbqh1bqjtPXEDGcvx9TWZzB+vO1dk0ZvKs6uGlizFD0nqALUAaah7AHcMYvLbOkl4n4Bzb6nWCKfWAOfhz6Y3PGMad5k9Wa2dMY126oHOmMbF9f+0K9gpYu1jRkypJc+AQBrD9iLMe2W4flHPp5Mo7NVDPy/iR6tE9ScP3lnlZZ33UHEYEd+iwGXnNFup6nGZv+Y5Gqr1xjXpV8snZIruxMehw3OOwJeDGLIZoe8E5/6xce684BwNnc/8jR1Itg9PA9jeBJ28Q2FGS8zGWXGH8doskIpJXDhUMZfrxXzz67Z60NeCqjfENNO9uOaLFb4RDLsrKmK11dUqXEm3KWatv0msOOpXuNmt+ElhqPlJaJfvensmds9M3J2JGxrBwzCxSqDelkRU2hVHVUbvmYm9MxN3Z+KGBvcwTNQ3HLOvZqK8ods8EBOzNuxMxRdScfPjzrGoWH1e2ZqKyr6oCGLxb2dqXvxnrJn/AA==</diagram><diagram id="iFd7teKLrNy8ccLWuwIt" name="Why we need Feynman diagram?">ldFND4IgGAfwT8OxDaVcnu1tq+bBzerIhJQNfRzStD59GphjXuoE/Pjz8IZIVHZ7ReviDIxL5GPWIbJBvu9566BvBnkaWYahgVwJZkMTJOLFLWKrD8F44wQ1gNSidjGDquKZdowqBa0bu4N0d61pzmeQZFTO9SKYLoyuV3jyAxd5Me7sYTtT0jFsSzQFZdAa+mTIFpFIAWjTK7uIy+HxxnfZpbmIo+XtGuP0+Ahwk9Snham++2fJ9wqKV/rX0n1nOlo/cD6YbN8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-20T17:31:05.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="BKkdAsgDPpFqtJeV7Ind" version="16.0.0" type="github" pages="3">
+  <diagram id="XS5NZsYhdVDpkxtMLIYf" name="Contents">
+    <mxGraphModel dx="1186" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="Z3eSaY7nEmQp83t4JaP1-0" />
+        <mxCell id="Z3eSaY7nEmQp83t4JaP1-1" parent="Z3eSaY7nEmQp83t4JaP1-0" />
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" source="lZN4m0LRA45M3t4RuXkj-0" target="vQvPMugCWMnJx9Grhl2Z-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Z3eSaY7nEmQp83t4JaP1-1" source="lZN4m0LRA45M3t4RuXkj-0" target="vQvPMugCWMnJx9Grhl2Z-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZN4m0LRA45M3t4RuXkj-0" value="$$e+e-\to\mu+\mu-$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" vertex="1">
+          <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-0" value="Cross Section" style="whiteSpace=wrap;html=1;rounded=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" vertex="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" source="vQvPMugCWMnJx9Grhl2Z-2" target="vQvPMugCWMnJx9Grhl2Z-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-2" value="$$\frac{d \sigma}{d \Omega}=\frac{1}{64 \pi^{2} E_{\mathrm{cm}}^{2}} \cdot|\mathcal{M}|^{2}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" vertex="1">
+          <mxGeometry x="360" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-4" value="Feynman&#39;s diagram&lt;br&gt;(Feynman&#39;s rules)" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" vertex="1">
+          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvPMugCWMnJx9Grhl2Z-6" value="DEAD END" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z3eSaY7nEmQp83t4JaP1-1" vertex="1">
+          <mxGeometry x="560" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qaS2kFJzMprLW8xb901b-0" value="" style="image;html=1;image=img/lib/clip_art/general/Star_128x128.png" parent="Z3eSaY7nEmQp83t4JaP1-1" vertex="1">
+          <mxGeometry x="340" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3fMimIrCuo9KCQnrETgy" name="Center of mass model of e+e- Annihilation">
+    <mxGraphModel dx="1186" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="yK0ir2uRmSv_IbER57dE-0" />
+        <mxCell id="yK0ir2uRmSv_IbER57dE-1" parent="yK0ir2uRmSv_IbER57dE-0" />
+        <mxCell id="ihXd_GU8iQ0Z5vv8orbL-0" value="Center-of-Mass model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ihXd_GU8iQ0Z5vv8orbL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="ihXd_GU8iQ0Z5vv8orbL-2" target="ihXd_GU8iQ0Z5vv8orbL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihXd_GU8iQ0Z5vv8orbL-2" value="Conservation of Momentum&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ihXd_GU8iQ0Z5vv8orbL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="ihXd_GU8iQ0Z5vv8orbL-4" target="ihXd_GU8iQ0Z5vv8orbL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihXd_GU8iQ0Z5vv8orbL-4" value="Energy \(&amp;gt;&amp;gt;\) Mass" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ihXd_GU8iQ0Z5vv8orbL-5" value="$$|\mathbf{p}|=\left|\mathbf{p}^{\prime}\right|=|\mathbf{k}|=\left|\mathbf{k}^{\prime}\right|=E \equiv E_{\mathrm{cm}} / 2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="320" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-0" value="$$e+e-\to\mu+\mu-$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="eCxXJJobvqJ6Iow8f0sI-1" target="eCxXJJobvqJ6Iow8f0sI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="eCxXJJobvqJ6Iow8f0sI-1" target="eCxXJJobvqJ6Iow8f0sI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-1" value="Both spin 1/2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-2" value="\(e+e-\) unpolarized" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-4" value="\(\mu+\mu-\) blind to detector" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="yK0ir2uRmSv_IbER57dE-1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="eCxXJJobvqJ6Iow8f0sI-0" target="ihXd_GU8iQ0Z5vv8orbL-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+            <mxPoint x="90" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="eCxXJJobvqJ6Iow8f0sI-0" target="ihXd_GU8iQ0Z5vv8orbL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="280" as="sourcePoint" />
+            <mxPoint x="140" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="eCxXJJobvqJ6Iow8f0sI-0" target="ihXd_GU8iQ0Z5vv8orbL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="sourcePoint" />
+            <mxPoint x="100" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCxXJJobvqJ6Iow8f0sI-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="yK0ir2uRmSv_IbER57dE-1" source="eCxXJJobvqJ6Iow8f0sI-0" target="eCxXJJobvqJ6Iow8f0sI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="290" as="sourcePoint" />
+            <mxPoint x="110" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iFd7teKLrNy8ccLWuwIt" name="Why we need Feynman diagram?">
+    <mxGraphModel dx="1186" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="FVgiOC4YXO0VKu60sSpL-0" />
+        <mxCell id="FVgiOC4YXO0VKu60sSpL-1" parent="FVgiOC4YXO0VKu60sSpL-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
